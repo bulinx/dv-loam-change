@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libDBoW2.so -o ../lib/libDBoW2.so CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o 
